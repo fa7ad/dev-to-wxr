@@ -1,0 +1,14 @@
+{
+  "name": "dev-to-wxr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dayjs": "^1.10.7",
+    "got": "^12.0.0",
+    "html-to-text": "^8.1.0",
+    "lodash": "^4.17.21",
+    "ramda": "^0.27.1"
+  }
+}
